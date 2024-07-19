@@ -7,8 +7,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/carDb #Puerto de mysql
-    username: root
-    password: Root.2024*
+    username: 
+    password: 
   jpa:
     hibernate:
       ddl-auto: create
