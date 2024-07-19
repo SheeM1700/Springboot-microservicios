@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: msvc-car
+  config:
+    import: optional:configserver:http://localhost:8888 #configuraci�n import
