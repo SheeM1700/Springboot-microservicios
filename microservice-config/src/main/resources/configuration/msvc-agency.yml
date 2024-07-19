@@ -7,8 +7,8 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/agencyDb #puerto de postgreSQL
-    username: postgres
-    password: 290522
+    username: 
+    password: 
   jpa:
     hibernate:
       ddl-auto: create
